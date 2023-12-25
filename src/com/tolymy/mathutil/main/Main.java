@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.meme.mathutil.main;
+package com.tolymy.mathutil.main;
 
-import com.meme.mathutil.core.MathUtil;
+import com.tolymy.mathutil.core.MathUtil;
 
 /**
  *

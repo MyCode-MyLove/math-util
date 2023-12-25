@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
-package com.meme.mathutil.test.core;
+package com.tolymy.mathutil.test.core;
 
-import com.meme.mathutil.core.MathUtil;
+import com.tolymy.mathutil.core.MathUtil;
 import org.junit.Assert;
 import org.junit.Test;
 
